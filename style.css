@@ -25,6 +25,10 @@ h1{
     background-color: #081b31;
     cursor: pointer;
 }
+.choice:active {
+    box-shadow: 0 5px ;
+    transform: translateY(4px);
+  }
 img{
     height: 150px;
     width: 150px;
